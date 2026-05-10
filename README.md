@@ -1,6 +1,3 @@
-# ihcux-racha-aiPara finalizar sua entrega conforme as exigências do Professor Daniel Henrique Matos de Paiva , aqui está o conteúdo do arquivo **README.md** pronto para você copiar e colar no seu repositório `ihcux-racha-ai`.
-
----
 
 # RachaAí - Protótipo de Baixa Fidelidade (IHC & UX)
 
